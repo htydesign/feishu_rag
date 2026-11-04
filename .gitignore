@@ -3,6 +3,12 @@ DS_Store
 
 # temp
 /temp
+tem/
+
+# scratch scripts
+_build_trees.py
+_probe_deps.py
+_probe_nodes.py
 
 # course materials
 课件/
