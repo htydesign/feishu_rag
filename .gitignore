@@ -10,9 +10,6 @@ _build_trees.py
 _probe_deps.py
 _probe_nodes.py
 
-# tests
-tests/
-
 # course materials
 课件/
 练习/

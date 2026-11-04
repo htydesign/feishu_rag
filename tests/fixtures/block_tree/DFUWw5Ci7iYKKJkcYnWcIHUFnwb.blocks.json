@@ -1,0 +1,2162 @@
+{
+  "source_token": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+  "document_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+  "title": "欢迎使用知识库",
+  "revision_id": 1,
+  "blocks": [
+    {
+      "block_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "block_type": 1,
+      "parent_id": "",
+      "children": [
+        "doxcnTWZ4c4TKGscnlymbIwd6IA",
+        "doxcnDNdmmpig7W4y4xMAVixAHc",
+        "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+        "doxcnhOYU67KtUHOTztcC9h91Rd",
+        "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+        "doxcnxUpa6lqjDEURh6tCrj1YQg",
+        "doxcnGuO9P1KewDJt8seGCjHmNf",
+        "doxcnzGcWOb4LSWrduAvnMJRjiC",
+        "doxcnUC0gttxSpjSa9sGy3coCWh",
+        "doxcnbCv1SA4IdatFTmh228JtLe",
+        "doxcn0XAsMUxobnDjGwo84PKPUb",
+        "doxcnmeVHSnLngsH5Y7bkcahlgW",
+        "doxcnxALKlWfMmrdhKb8zYFKKqc",
+        "doxcnlJI7XvERZ880rooQyTVuVK",
+        "doxcnnkccurWjosDzQZkxCoemAg",
+        "doxcnIcZFjj9NR2mPIPPapVKui7",
+        "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+        "doxcnEptEK3s0JJIUzv3IcO1g5b",
+        "doxcnrNoWLl0uslpZ5U8A1kcNhZ",
+        "doxcn4CHCSSwGQpUssqmcIpEUdh",
+        "doxcnHEzCqrooWfcOilnbdKLYDh",
+        "doxcn8aTFNbYATQIaOnuYDps6zd",
+        "doxcn6JiofEa5ky2YBNhOC1WZGf",
+        "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+        "doxcnbt4WqOPrImw4cfRAP6kz3b",
+        "doxcnK3FJ6XTwoFtemH3awWbz3d",
+        "doxcngPRj6QVT8RbHmXslxnGLHT",
+        "doxcnsXdGYRhtbKM8JlooCKDbQg",
+        "doxcnukP530vgMsPXGltrYsjsHf",
+        "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+        "doxcnmb4MlVVizaxVGbDDyG7AWm",
+        "doxcnohN7dvXRQjo5shXWEQxpif",
+        "doxcnf5SBRKAJPFjt7CS6upfPuh",
+        "doxcnSGldeBVkEYzdK30t2iDAYc",
+        "doxcnQ4BPfa3NrokwSwViqECBec",
+        "doxcnEPlXZqoS4bXKCO2gsV8oae",
+        "doxcn4hyHqNIvu1XnUzKkYhodcb",
+        "doxcn4KKc9UhzbXawiQkhJdstGb"
+      ],
+      "raw": {
+        "block_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "block_type": 1,
+        "children": [
+          "doxcnTWZ4c4TKGscnlymbIwd6IA",
+          "doxcnDNdmmpig7W4y4xMAVixAHc",
+          "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+          "doxcnhOYU67KtUHOTztcC9h91Rd",
+          "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+          "doxcnxUpa6lqjDEURh6tCrj1YQg",
+          "doxcnGuO9P1KewDJt8seGCjHmNf",
+          "doxcnzGcWOb4LSWrduAvnMJRjiC",
+          "doxcnUC0gttxSpjSa9sGy3coCWh",
+          "doxcnbCv1SA4IdatFTmh228JtLe",
+          "doxcn0XAsMUxobnDjGwo84PKPUb",
+          "doxcnmeVHSnLngsH5Y7bkcahlgW",
+          "doxcnxALKlWfMmrdhKb8zYFKKqc",
+          "doxcnlJI7XvERZ880rooQyTVuVK",
+          "doxcnnkccurWjosDzQZkxCoemAg",
+          "doxcnIcZFjj9NR2mPIPPapVKui7",
+          "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+          "doxcnEptEK3s0JJIUzv3IcO1g5b",
+          "doxcnrNoWLl0uslpZ5U8A1kcNhZ",
+          "doxcn4CHCSSwGQpUssqmcIpEUdh",
+          "doxcnHEzCqrooWfcOilnbdKLYDh",
+          "doxcn8aTFNbYATQIaOnuYDps6zd",
+          "doxcn6JiofEa5ky2YBNhOC1WZGf",
+          "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+          "doxcnbt4WqOPrImw4cfRAP6kz3b",
+          "doxcnK3FJ6XTwoFtemH3awWbz3d",
+          "doxcngPRj6QVT8RbHmXslxnGLHT",
+          "doxcnsXdGYRhtbKM8JlooCKDbQg",
+          "doxcnukP530vgMsPXGltrYsjsHf",
+          "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+          "doxcnmb4MlVVizaxVGbDDyG7AWm",
+          "doxcnohN7dvXRQjo5shXWEQxpif",
+          "doxcnf5SBRKAJPFjt7CS6upfPuh",
+          "doxcnSGldeBVkEYzdK30t2iDAYc",
+          "doxcnQ4BPfa3NrokwSwViqECBec",
+          "doxcnEPlXZqoS4bXKCO2gsV8oae",
+          "doxcn4hyHqNIvu1XnUzKkYhodcb",
+          "doxcn4KKc9UhzbXawiQkhJdstGb"
+        ],
+        "page": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "欢迎使用知识库",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1
+          }
+        },
+        "parent_id": ""
+      }
+    },
+    {
+      "block_id": "doxcnTWZ4c4TKGscnlymbIwd6IA",
+      "block_type": 34,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [
+        "doxcnIHSccR4rpkEJo1lCu3h3hc"
+      ],
+      "raw": {
+        "block_id": "doxcnTWZ4c4TKGscnlymbIwd6IA",
+        "block_type": 34,
+        "children": [
+          "doxcnIHSccR4rpkEJo1lCu3h3hc"
+        ],
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "quote_container": {}
+      }
+    },
+    {
+      "block_id": "doxcnIHSccR4rpkEJo1lCu3h3hc",
+      "block_type": 2,
+      "parent_id": "doxcnTWZ4c4TKGscnlymbIwd6IA",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnIHSccR4rpkEJo1lCu3h3hc",
+        "block_type": 2,
+        "parent_id": "doxcnTWZ4c4TKGscnlymbIwd6IA",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "这是由飞书官方创建的“示例知识库”，能够帮助你快速了解全新知识库的功能，建议管理员将此知识空间开放给公司全员阅读哦。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnDNdmmpig7W4y4xMAVixAHc",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnDNdmmpig7W4y4xMAVixAHc",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库是什么？",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+      "block_type": 19,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [
+        "doxcnlNvl3KMv8hd8K9DZySq4n1"
+      ],
+      "raw": {
+        "block_id": "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+        "block_type": 19,
+        "callout": {
+          "background_color": 5,
+          "border_color": 5,
+          "emoji_id": "pushpin"
+        },
+        "children": [
+          "doxcnlNvl3KMv8hd8K9DZySq4n1"
+        ],
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnlNvl3KMv8hd8K9DZySq4n1",
+      "block_type": 2,
+      "parent_id": "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnlNvl3KMv8hd8K9DZySq4n1",
+        "block_type": 2,
+        "parent_id": "doxcnJi23c6yLvj6r4qgoF4ZTzf",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库是一个面向组织的知识管理系统。通过结构化沉淀高价值信息，形成组织完整的知识体系。通过便捷地分享和传播，轻松提升知识的流转效率，更好地成就组织和个人。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库的价值",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "打造信息源",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnxUpa6lqjDEURh6tCrj1YQg",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnxUpa6lqjDEURh6tCrj1YQg",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "所有成员在同一平台创作和管理知识，让团队智慧都沉淀在同一空间。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnGuO9P1KewDJt8seGCjHmNf",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnGuO9P1KewDJt8seGCjHmNf",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "促进信息流通",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnzGcWOb4LSWrduAvnMJRjiC",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnzGcWOb4LSWrduAvnMJRjiC",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "树状的目录结构，使知识更容易被发现和找到。一键共享文档，加速组织内部信息流通。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnUC0gttxSpjSa9sGy3coCWh",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnUC0gttxSpjSa9sGy3coCWh",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "获得全局视野",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnbCv1SA4IdatFTmh228JtLe",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnbCv1SA4IdatFTmh228JtLe",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "团队成员可以快速而准确地获取完整信息，为业务决策提供必要的知识支持。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库的构成",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnmeVHSnLngsH5Y7bkcahlgW",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnmeVHSnLngsH5Y7bkcahlgW",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnxALKlWfMmrdhKb8zYFKKqc",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnxALKlWfMmrdhKb8zYFKKqc",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库是一个面向企业的内容管理系统。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "通过多人共建",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "、",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "集思广益的方式",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "，",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "提升企业知识溯源",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "、",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "传播",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "和分享",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "效率，减少人员流动",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "的",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "影响",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "，",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "降低内部知识",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "的",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "流转成本。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnlJI7XvERZ880rooQyTVuVK",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnlJI7XvERZ880rooQyTVuVK",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识库由多个",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "知识空间",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "构成，知识空间由",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "多个",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "文档",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "页面",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "构成。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnnkccurWjosDzQZkxCoemAg",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnnkccurWjosDzQZkxCoemAg",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识空间",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnIcZFjj9NR2mPIPPapVKui7",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnIcZFjj9NR2mPIPPapVKui7",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "知识空间是知识库的",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "基本",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "组成单位",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "，是企业根据需要搭建的不同类别的知识体系",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "，",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "由多个具有",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "层级和所属关系",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "的文档页面构成。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "还可以设置为对不同的人群可见，严格保障知识安全。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "了解更多",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnEptEK3s0JJIUzv3IcO1g5b",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnEptEK3s0JJIUzv3IcO1g5b",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "点击这里",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "link": {
+                    "url": "https%3A%2F%2Fwww.feishu.cn%2Fhc%2Fzh-CN%2Fcategories-detail%3Fcategory-id%3D6960496243344670748"
+                  },
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "，了解更多知识库的信息。",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnrNoWLl0uslpZ5U8A1kcNhZ",
+      "block_type": 22,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnrNoWLl0uslpZ5U8A1kcNhZ",
+        "block_type": 22,
+        "divider": {},
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcn4CHCSSwGQpUssqmcIpEUdh",
+      "block_type": 34,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [
+        "doxcnJ2kkNEdw6YPQgLgnVQPBKg"
+      ],
+      "raw": {
+        "block_id": "doxcn4CHCSSwGQpUssqmcIpEUdh",
+        "block_type": 34,
+        "children": [
+          "doxcnJ2kkNEdw6YPQgLgnVQPBKg"
+        ],
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "quote_container": {}
+      }
+    },
+    {
+      "block_id": "doxcnJ2kkNEdw6YPQgLgnVQPBKg",
+      "block_type": 2,
+      "parent_id": "doxcn4CHCSSwGQpUssqmcIpEUdh",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnJ2kkNEdw6YPQgLgnVQPBKg",
+        "block_type": 2,
+        "parent_id": "doxcn4CHCSSwGQpUssqmcIpEUdh",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "This is a collection of Wiki samples from the official Feishu team to showcase Wiki's versatile functions. Administrators should consider making it public to everyone within the company.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnHEzCqrooWfcOilnbdKLYDh",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnHEzCqrooWfcOilnbdKLYDh",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Intro",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcn8aTFNbYATQIaOnuYDps6zd",
+      "block_type": 19,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [
+        "doxcnlQktWUI3WgRFkTv8Ku97i2"
+      ],
+      "raw": {
+        "block_id": "doxcn8aTFNbYATQIaOnuYDps6zd",
+        "block_type": 19,
+        "callout": {
+          "background_color": 5,
+          "border_color": 5,
+          "emoji_id": "pushpin"
+        },
+        "children": [
+          "doxcnlQktWUI3WgRFkTv8Ku97i2"
+        ],
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnlQktWUI3WgRFkTv8Ku97i2",
+      "block_type": 2,
+      "parent_id": "doxcn8aTFNbYATQIaOnuYDps6zd",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnlQktWUI3WgRFkTv8Ku97i2",
+        "block_type": 2,
+        "parent_id": "doxcn8aTFNbYATQIaOnuYDps6zd",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Wiki is a content management system designed for organizations. It compiles useful knowledge in a structured format and creates a complete organizational knowledge system. You can use Wiki to share knowledge and boost knowledge transfer efficiency to achieve better results.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Value",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "s",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Build",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "ing",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "knowledge center",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnbt4WqOPrImw4cfRAP6kz3b",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnbt4WqOPrImw4cfRAP6kz3b",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "All members can create and manage knowledge on the same platform, allowing the team to gather ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "all relevant",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " knowledge in one ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "space",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": ".",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnK3FJ6XTwoFtemH3awWbz3d",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnK3FJ6XTwoFtemH3awWbz3d",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Promot",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "ing",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "knowledge",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " trans",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "fer",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcngPRj6QVT8RbHmXslxnGLHT",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcngPRj6QVT8RbHmXslxnGLHT",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "The tree-like directory structure ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "organizes knowledge in an orderly manner",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": ". You can easily share documents to",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " promote",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " the internal circulation of information.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnsXdGYRhtbKM8JlooCKDbQg",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnsXdGYRhtbKM8JlooCKDbQg",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Provid",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "ing",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " a global view",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnukP530vgMsPXGltrYsjsHf",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnukP530vgMsPXGltrYsjsHf",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Team members can conveniently access required information, which provides the basis for well-informed business decisions. ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Structure",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnmb4MlVVizaxVGbDDyG7AWm",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnmb4MlVVizaxVGbDDyG7AWm",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Wiki",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnohN7dvXRQjo5shXWEQxpif",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnohN7dvXRQjo5shXWEQxpif",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Wiki is a content management system designed for organizations. It leverages crowd contributions to improve knowledge tracing,",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " transfer",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": ", and sharing efficiency, redu",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "ces ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "the impact of staff turnover, and lower",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "s ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "internal knowledge transfer costs.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnf5SBRKAJPFjt7CS6upfPuh",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnf5SBRKAJPFjt7CS6upfPuh",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Wiki is composed of multiple ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "workspaces",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": ". A workspace comprises multiple ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "document pages",
+                "text_element_style": {
+                  "bold": true,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": ".",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnSGldeBVkEYzdK30t2iDAYc",
+      "block_type": 4,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnSGldeBVkEYzdK30t2iDAYc",
+        "block_type": 4,
+        "heading2": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Workspaces",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcnQ4BPfa3NrokwSwViqECBec",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnQ4BPfa3NrokwSwViqECBec",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Workspaces are the basic components of Wiki and represent different knowledge systems within the company. A workspace comprises multiple document pages grouped by level and ownership structure. You can set the ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "accessibility",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": " of pages to ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "e",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "nsure ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "information ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "security.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcnEPlXZqoS4bXKCO2gsV8oae",
+      "block_type": 3,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcnEPlXZqoS4bXKCO2gsV8oae",
+        "block_type": 3,
+        "heading1": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Learn more",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        },
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb"
+      }
+    },
+    {
+      "block_id": "doxcn4hyHqNIvu1XnUzKkYhodcb",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcn4hyHqNIvu1XnUzKkYhodcb",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "Click ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "here ",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "link": {
+                    "url": "https%3A%2F%2Fwww.feishu.cn%2Fhc%2Fen-US%2Fcategories-detail%3Fcategory-id%3D6960871645783293954"
+                  },
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            },
+            {
+              "text_run": {
+                "content": "for more information about Wiki.",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    },
+    {
+      "block_id": "doxcn4KKc9UhzbXawiQkhJdstGb",
+      "block_type": 2,
+      "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "children": [],
+      "raw": {
+        "block_id": "doxcn4KKc9UhzbXawiQkhJdstGb",
+        "block_type": 2,
+        "parent_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+        "text": {
+          "elements": [
+            {
+              "text_run": {
+                "content": "",
+                "text_element_style": {
+                  "bold": false,
+                  "inline_code": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false
+                }
+              }
+            }
+          ],
+          "style": {
+            "align": 1,
+            "folded": false
+          }
+        }
+      }
+    }
+  ]
+}
