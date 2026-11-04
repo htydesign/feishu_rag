@@ -1,0 +1,505 @@
+[
+  {
+    "id": "EqktdLj6voqiknxU0OWcDZtmnif",
+    "page_content": "# 欢迎使用知识库\n\n> 这是由飞书官方创建的“示例知识库”，能够帮助你快速了解全新知识库的功能，建议管理员将此知识空间开放给公司全员阅读哦。\n\n<document-ref id=\"doxcnDNdmmpig7W4y4xMAVixAHc\" kind=\"heading\">知识库是什么？</document-ref>\n\n<document-ref id=\"doxcnhOYU67KtUHOTztcC9h91Rd\" kind=\"heading\">知识库的价值</document-ref>\n\n<document-ref id=\"doxcn0XAsMUxobnDjGwo84PKPUb\" kind=\"heading\">知识库的构成</document-ref>\n\n<document-ref id=\"doxcnwSCPNEgkrHqQKcp5Bk1EDh\" kind=\"heading\">了解更多</document-ref>\n\n<document-ref id=\"doxcnHEzCqrooWfcOilnbdKLYDh\" kind=\"heading\">Intro</document-ref>\n\n<document-ref id=\"doxcn6JiofEa5ky2YBNhOC1WZGf\" kind=\"heading\">Values</document-ref>\n\n<document-ref id=\"doxcnfZUK5aCHDpFdQaZvxGgxeb\" kind=\"heading\">Structure</document-ref>\n\n<document-ref id=\"doxcnEPlXZqoS4bXKCO2gsV8oae\" kind=\"heading\">Learn more</document-ref>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "block_type": 1,
+      "kind": "page",
+      "payload": {},
+      "order": 0,
+      "parent_document_id": null,
+      "title_path": [
+        "欢迎使用知识库"
+      ],
+      "references": [
+        {
+          "id": "doxcnDNdmmpig7W4y4xMAVixAHc",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnDNdmmpig7W4y4xMAVixAHc\" kind=\"heading\">知识库是什么？</document-ref>"
+        },
+        {
+          "id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnhOYU67KtUHOTztcC9h91Rd\" kind=\"heading\">知识库的价值</document-ref>"
+        },
+        {
+          "id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcn0XAsMUxobnDjGwo84PKPUb\" kind=\"heading\">知识库的构成</document-ref>"
+        },
+        {
+          "id": "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnwSCPNEgkrHqQKcp5Bk1EDh\" kind=\"heading\">了解更多</document-ref>"
+        },
+        {
+          "id": "doxcnHEzCqrooWfcOilnbdKLYDh",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnHEzCqrooWfcOilnbdKLYDh\" kind=\"heading\">Intro</document-ref>"
+        },
+        {
+          "id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcn6JiofEa5ky2YBNhOC1WZGf\" kind=\"heading\">Values</document-ref>"
+        },
+        {
+          "id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnfZUK5aCHDpFdQaZvxGgxeb\" kind=\"heading\">Structure</document-ref>"
+        },
+        {
+          "id": "doxcnEPlXZqoS4bXKCO2gsV8oae",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnEPlXZqoS4bXKCO2gsV8oae\" kind=\"heading\">Learn more</document-ref>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doxcnDNdmmpig7W4y4xMAVixAHc",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库是什么？\n\n<aside><p>知识库是一个面向组织的知识管理系统。通过结构化沉淀高价值信息，形成组织完整的知识体系。通过便捷地分享和传播，轻松提升知识的流转效率，更好地成就组织和个人。</p></aside>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnDNdmmpig7W4y4xMAVixAHc",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 1,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库是什么？"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的价值\n\n<document-ref id=\"doxcnu6tzdKrPDLa6Z3qWrkPzPg\" kind=\"heading\">打造信息源</document-ref>\n\n<document-ref id=\"doxcnGuO9P1KewDJt8seGCjHmNf\" kind=\"heading\">促进信息流通</document-ref>\n\n<document-ref id=\"doxcnUC0gttxSpjSa9sGy3coCWh\" kind=\"heading\">获得全局视野</document-ref>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 2,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的价值"
+      ],
+      "references": [
+        {
+          "id": "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnu6tzdKrPDLa6Z3qWrkPzPg\" kind=\"heading\">打造信息源</document-ref>"
+        },
+        {
+          "id": "doxcnGuO9P1KewDJt8seGCjHmNf",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnGuO9P1KewDJt8seGCjHmNf\" kind=\"heading\">促进信息流通</document-ref>"
+        },
+        {
+          "id": "doxcnUC0gttxSpjSa9sGy3coCWh",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnUC0gttxSpjSa9sGy3coCWh\" kind=\"heading\">获得全局视野</document-ref>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的价值\n\n### 打造信息源\n\n所有成员在同一平台创作和管理知识，让团队智慧都沉淀在同一空间。",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnu6tzdKrPDLa6Z3qWrkPzPg",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 3,
+      "parent_document_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的价值",
+        "打造信息源"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnGuO9P1KewDJt8seGCjHmNf",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的价值\n\n### 促进信息流通\n\n树状的目录结构，使知识更容易被发现和找到。一键共享文档，加速组织内部信息流通。",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnGuO9P1KewDJt8seGCjHmNf",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 4,
+      "parent_document_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的价值",
+        "促进信息流通"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnUC0gttxSpjSa9sGy3coCWh",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的价值\n\n### 获得全局视野\n\n团队成员可以快速而准确地获取完整信息，为业务决策提供必要的知识支持。",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnUC0gttxSpjSa9sGy3coCWh",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 5,
+      "parent_document_id": "doxcnhOYU67KtUHOTztcC9h91Rd",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的价值",
+        "获得全局视野"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的构成\n\n<document-ref id=\"doxcnmeVHSnLngsH5Y7bkcahlgW\" kind=\"heading\">知识库</document-ref>\n\n<document-ref id=\"doxcnnkccurWjosDzQZkxCoemAg\" kind=\"heading\">知识空间</document-ref>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 6,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的构成"
+      ],
+      "references": [
+        {
+          "id": "doxcnmeVHSnLngsH5Y7bkcahlgW",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnmeVHSnLngsH5Y7bkcahlgW\" kind=\"heading\">知识库</document-ref>"
+        },
+        {
+          "id": "doxcnnkccurWjosDzQZkxCoemAg",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnnkccurWjosDzQZkxCoemAg\" kind=\"heading\">知识空间</document-ref>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doxcnmeVHSnLngsH5Y7bkcahlgW",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的构成\n\n### 知识库\n\n知识库是一个面向企业的内容管理系统。通过多人共建、集思广益的方式，提升企业知识溯源、传播和分享效率，减少人员流动的影响，降低内部知识的流转成本。\n\n知识库由多个知识空间构成，知识空间由多个文档页面构成。",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnmeVHSnLngsH5Y7bkcahlgW",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 7,
+      "parent_document_id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的构成",
+        "知识库"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnnkccurWjosDzQZkxCoemAg",
+    "page_content": "# 欢迎使用知识库\n\n## 知识库的构成\n\n### 知识空间\n\n知识空间是知识库的基本组成单位，是企业根据需要搭建的不同类别的知识体系，由多个具有层级和所属关系的文档页面构成。还可以设置为对不同的人群可见，严格保障知识安全。",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnnkccurWjosDzQZkxCoemAg",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 8,
+      "parent_document_id": "doxcn0XAsMUxobnDjGwo84PKPUb",
+      "title_path": [
+        "欢迎使用知识库",
+        "知识库的构成",
+        "知识空间"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+    "page_content": "# 欢迎使用知识库\n\n## 了解更多\n\n点击这里，了解更多知识库的信息。\n\n---\n\n> This is a collection of Wiki samples from the official Feishu team to showcase Wiki's versatile functions. Administrators should consider making it public to everyone within the company.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnwSCPNEgkrHqQKcp5Bk1EDh",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 9,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "了解更多"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnHEzCqrooWfcOilnbdKLYDh",
+    "page_content": "# 欢迎使用知识库\n\n## Intro\n\n<aside><p>Wiki is a content management system designed for organizations. It compiles useful knowledge in a structured format and creates a complete organizational knowledge system. You can use Wiki to share knowledge and boost knowledge transfer efficiency to achieve better results.</p></aside>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnHEzCqrooWfcOilnbdKLYDh",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 10,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "Intro"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+    "page_content": "# 欢迎使用知识库\n\n## Values\n\n<document-ref id=\"doxcnjO9CyFR1DpH9bGOMfzDaWh\" kind=\"heading\">Building knowledge center</document-ref>\n\n<document-ref id=\"doxcnK3FJ6XTwoFtemH3awWbz3d\" kind=\"heading\">Promoting knowledge transfer</document-ref>\n\n<document-ref id=\"doxcnsXdGYRhtbKM8JlooCKDbQg\" kind=\"heading\">Providing a global view</document-ref>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 11,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "Values"
+      ],
+      "references": [
+        {
+          "id": "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnjO9CyFR1DpH9bGOMfzDaWh\" kind=\"heading\">Building knowledge center</document-ref>"
+        },
+        {
+          "id": "doxcnK3FJ6XTwoFtemH3awWbz3d",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnK3FJ6XTwoFtemH3awWbz3d\" kind=\"heading\">Promoting knowledge transfer</document-ref>"
+        },
+        {
+          "id": "doxcnsXdGYRhtbKM8JlooCKDbQg",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnsXdGYRhtbKM8JlooCKDbQg\" kind=\"heading\">Providing a global view</document-ref>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+    "page_content": "# 欢迎使用知识库\n\n## Values\n\n### Building knowledge center\n\nAll members can create and manage knowledge on the same platform, allowing the team to gather all relevant knowledge in one space.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnjO9CyFR1DpH9bGOMfzDaWh",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 12,
+      "parent_document_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+      "title_path": [
+        "欢迎使用知识库",
+        "Values",
+        "Building knowledge center"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnK3FJ6XTwoFtemH3awWbz3d",
+    "page_content": "# 欢迎使用知识库\n\n## Values\n\n### Promoting knowledge transfer\n\nThe tree-like directory structure organizes knowledge in an orderly manner. You can easily share documents to promote the internal circulation of information.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnK3FJ6XTwoFtemH3awWbz3d",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 13,
+      "parent_document_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+      "title_path": [
+        "欢迎使用知识库",
+        "Values",
+        "Promoting knowledge transfer"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnsXdGYRhtbKM8JlooCKDbQg",
+    "page_content": "# 欢迎使用知识库\n\n## Values\n\n### Providing a global view\n\nTeam members can conveniently access required information, which provides the basis for well-informed business decisions. ",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnsXdGYRhtbKM8JlooCKDbQg",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 14,
+      "parent_document_id": "doxcn6JiofEa5ky2YBNhOC1WZGf",
+      "title_path": [
+        "欢迎使用知识库",
+        "Values",
+        "Providing a global view"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+    "page_content": "# 欢迎使用知识库\n\n## Structure\n\n<document-ref id=\"doxcnmb4MlVVizaxVGbDDyG7AWm\" kind=\"heading\">Wiki</document-ref>\n\n<document-ref id=\"doxcnSGldeBVkEYzdK30t2iDAYc\" kind=\"heading\">Workspaces</document-ref>",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 15,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "Structure"
+      ],
+      "references": [
+        {
+          "id": "doxcnmb4MlVVizaxVGbDDyG7AWm",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnmb4MlVVizaxVGbDDyG7AWm\" kind=\"heading\">Wiki</document-ref>"
+        },
+        {
+          "id": "doxcnSGldeBVkEYzdK30t2iDAYc",
+          "kind": "heading",
+          "placeholder": "<document-ref id=\"doxcnSGldeBVkEYzdK30t2iDAYc\" kind=\"heading\">Workspaces</document-ref>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "doxcnmb4MlVVizaxVGbDDyG7AWm",
+    "page_content": "# 欢迎使用知识库\n\n## Structure\n\n### Wiki\n\nWiki is a content management system designed for organizations. It leverages crowd contributions to improve knowledge tracing, transfer, and sharing efficiency, reduces the impact of staff turnover, and lowers internal knowledge transfer costs.\n\nWiki is composed of multiple workspaces. A workspace comprises multiple document pages.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnmb4MlVVizaxVGbDDyG7AWm",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 16,
+      "parent_document_id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+      "title_path": [
+        "欢迎使用知识库",
+        "Structure",
+        "Wiki"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnSGldeBVkEYzdK30t2iDAYc",
+    "page_content": "# 欢迎使用知识库\n\n## Structure\n\n### Workspaces\n\nWorkspaces are the basic components of Wiki and represent different knowledge systems within the company. A workspace comprises multiple document pages grouped by level and ownership structure. You can set the accessibility of pages to ensure information security.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnSGldeBVkEYzdK30t2iDAYc",
+      "block_type": 4,
+      "kind": "heading",
+      "payload": {},
+      "order": 17,
+      "parent_document_id": "doxcnfZUK5aCHDpFdQaZvxGgxeb",
+      "title_path": [
+        "欢迎使用知识库",
+        "Structure",
+        "Workspaces"
+      ],
+      "references": []
+    }
+  },
+  {
+    "id": "doxcnEPlXZqoS4bXKCO2gsV8oae",
+    "page_content": "# 欢迎使用知识库\n\n## Learn more\n\nClick here for more information about Wiki.",
+    "metadata": {
+      "node_id": "DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "title": "欢迎使用知识库",
+      "url": "https://www.feishu.cn/wiki/DFUWw5Ci7iYKKJkcYnWcIHUFnwb",
+      "revision_id": 1,
+      "block_id": "doxcnEPlXZqoS4bXKCO2gsV8oae",
+      "block_type": 3,
+      "kind": "heading",
+      "payload": {},
+      "order": 18,
+      "parent_document_id": "EqktdLj6voqiknxU0OWcDZtmnif",
+      "title_path": [
+        "欢迎使用知识库",
+        "Learn more"
+      ],
+      "references": []
+    }
+  }
+]

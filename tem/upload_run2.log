@@ -1,0 +1,52 @@
+跳过（已导入） PROD-001_A200产品与配置说明.md
+跳过（已导入） PROD-002_A400产品与配置说明.md
+跳过（已导入） PROD-003_软件兼容清单.md
+跳过（已导入） TEST-001_A200性能测试报告.md
+跳过（已导入） TEST-002_A400性能测试报告.md
+跳过（已导入） TEST-003_工务通接口兼容验证.md
+Traceback (most recent call last):
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\md2docx.py", line 183, in create_children
+    data = await sdk_call(lambda: docx.document_block_children.create(request))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\src\deal_pilot\feishu\api\_client.py", line 98, in sdk_call
+    response = await sdk_response(operation)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\src\deal_pilot\feishu\api\_client.py", line 90, in sdk_response
+    raise FeishuAPIError(response.code, raw.status_code, log_id)
+deal_pilot.feishu.api.errors.FeishuAPIError: 飞书 API 调用失败：code=1770001, HTTP=400
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\upload_wiki.py", line 372, in <module>
+    sys.exit(asyncio.run(main()))
+             ~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\Administrator\AppData\Roaming\uv\python\cpython-3.13.11-windows-x86_64-none\Lib\asyncio\runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Users\Administrator\AppData\Roaming\uv\python\cpython-3.13.11-windows-x86_64-none\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\Administrator\AppData\Roaming\uv\python\cpython-3.13.11-windows-x86_64-none\Lib\asyncio\base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\upload_wiki.py", line 352, in main
+    items = await process_document_folder(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        wiki, drive, folder, space_id, state
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\upload_wiki.py", line 262, in process_document_folder
+    node_token = await create_document_from_markdown(drive, wiki, md_path, space_id)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\upload_wiki.py", line 158, in create_document_from_markdown
+    counts = await write_document(docx_client(), drive, document_id, items)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\md2docx.py", line 233, in write_document
+    created = await create_children(docx, document_id, document_id, [_table_block(item.rows)])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\AI-FullStack\AI\deal_pilot_rag_learn\scripts\md2docx.py", line 189, in create_children
+    await asyncio.sleep(1.0 + attempt)
+          ^^^^^^^
+NameError: name 'asyncio' is not defined. Did you forget to import 'asyncio'?
