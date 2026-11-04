@@ -4,6 +4,12 @@ DS_Store
 # temp
 /temp
 
+# course materials
+课件/
+练习/
+课程内容.json
+项目描述.md
+
 # cache
 __pycache__
 .mypy_cache
