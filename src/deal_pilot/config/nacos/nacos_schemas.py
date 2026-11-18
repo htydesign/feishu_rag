@@ -6,7 +6,7 @@ from deal_pilot.config.openai_settings import openai_settings
 
 class AgentModelConfig(BaseModel):
     name: str = Field(default=openai_settings.default_model)
-    thinking: bool = Field(default=True)
+    thinking: bool = Field(default=False)
     temperature: float | None = Field(default=None)
     top_p: float | None = Field(default=None)
 
@@ -76,10 +76,7 @@ class RerankerConfig(BaseModel):
 class RetrieverConfig(BaseModel):
     fetch_k: int = Field(default=10)
     k: int = Field(default=4)
-    param: dict | list[dict] | None = Field(
-        default=None,
-        description="单个向量字段用 dict；混合检索按 vector_field 顺序为每个字段提供一个 dict",
-    )
+    param: list[dict] | None = Field(default=None)
     reranker: RerankerConfig = Field(default_factory=RerankerConfig)
 
 

@@ -18,7 +18,7 @@ course:
 	uv run python scripts/course.py
 
 test-benchmark:
-	BENCHMARK_DATASET="$(DS)" uv run pytest -q -s --tb=no tests/benchmarks/test_benchmark.py
+	powershell -Command "$$env:BENCHMARK_DATASET='all'; uv run pytest -q -s --tb=no tests/benchmarks/test_benchmark.py"
 
 test-units:
 	uv run pytest -q tests/units
